@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="17" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-04T20:49:29 IST" name="Suite" finished-at="2023-10-04T20:50:37 IST" duration-ms="68009">
+    <groups>
+    </groups>
+    <test started-at="2023-10-04T20:49:29 IST" name="Test" finished-at="2023-10-04T20:50:37 IST" duration-ms="68009">
+      <class name="testscases.ProductCartFunctionalityTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:49:53 IST" name="setup" finished-at="2023-10-04T20:49:54 IST" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateCartPageCancelButtonFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:49:54 IST" name="ValidateCartPageCancelButtonFunctionality" finished-at="2023-10-04T20:49:56 IST" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCartPageCancelButtonFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:49:56 IST" name="wrapUp" finished-at="2023-10-04T20:49:57 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:49:57 IST" name="setup" finished-at="2023-10-04T20:49:58 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateCartPageCheckoutErrorMessageFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:49:58 IST" name="ValidateCartPageCheckoutErrorMessageFunctionality" finished-at="2023-10-04T20:50:01 IST" duration-ms="2480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCartPageCheckoutErrorMessageFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:01 IST" name="wrapUp" finished-at="2023-10-04T20:50:02 IST" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:02 IST" name="setup" finished-at="2023-10-04T20:50:03 IST" duration-ms="1263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateCartPageCheckoutFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:03 IST" name="ValidateCartPageCheckoutFunctionality" finished-at="2023-10-04T20:50:05 IST" duration-ms="2149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCartPageCheckoutFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:05 IST" name="wrapUp" finished-at="2023-10-04T20:50:06 IST" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:06 IST" name="setup" finished-at="2023-10-04T20:50:08 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateCheckoutOverviewPageFinishFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:08 IST" name="ValidateCheckoutOverviewPageFinishFunctionality" finished-at="2023-10-04T20:50:10 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCheckoutOverviewPageFinishFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:10 IST" name="wrapUp" finished-at="2023-10-04T20:50:11 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:11 IST" name="setup" finished-at="2023-10-04T20:50:12 IST" duration-ms="1260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateCheckoutOverviewPageFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:12 IST" name="ValidateCheckoutOverviewPageFunctionality" finished-at="2023-10-04T20:50:14 IST" duration-ms="2136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCheckoutOverviewPageFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:14 IST" name="wrapUp" finished-at="2023-10-04T20:50:15 IST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:15 IST" name="setup" finished-at="2023-10-04T20:50:17 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateOrderFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:17 IST" name="ValidateOrderFunctionality" finished-at="2023-10-04T20:50:19 IST" duration-ms="2363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateOrderFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:19 IST" name="wrapUp" finished-at="2023-10-04T20:50:20 IST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:20 IST" name="setup" finished-at="2023-10-04T20:50:21 IST" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAllOptionsInMenuAreVisibleFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:21 IST" name="validateAllOptionsInMenuAreVisibleFunctionality" finished-at="2023-10-04T20:50:23 IST" duration-ms="1872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllOptionsInMenuAreVisibleFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:23 IST" name="wrapUp" finished-at="2023-10-04T20:50:24 IST" duration-ms="841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:24 IST" name="setup" finished-at="2023-10-04T20:50:25 IST" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateCartPageContinueShoppingfunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:25 IST" name="validateCartPageContinueShoppingfunctionality" finished-at="2023-10-04T20:50:27 IST" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartPageContinueShoppingfunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:27 IST" name="wrapUp" finished-at="2023-10-04T20:50:28 IST" duration-ms="862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:28 IST" name="setup" finished-at="2023-10-04T20:50:29 IST" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateCartPageItemRemovingFromTheCartFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:29 IST" name="validateCartPageItemRemovingFromTheCartFunctionality" finished-at="2023-10-04T20:50:32 IST" duration-ms="2993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartPageItemRemovingFromTheCartFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:32 IST" name="wrapUp" finished-at="2023-10-04T20:50:33 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:33 IST" name="setup" finished-at="2023-10-04T20:50:34 IST" duration-ms="1276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateProductPageItemAddingToTheCartFunctionality()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:34 IST" name="validateProductPageItemAddingToTheCartFunctionality" finished-at="2023-10-04T20:50:36 IST" duration-ms="1384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProductPageItemAddingToTheCartFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.ProductCartFunctionalityTests@40cb8df7]" started-at="2023-10-04T20:50:36 IST" name="wrapUp" finished-at="2023-10-04T20:50:37 IST" duration-ms="819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+      </class> <!-- testscases.ProductCartFunctionalityTests -->
+      <class name="testscases.LoginFunctionalityTests">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:29 IST" name="globalSetup" finished-at="2023-10-04T20:49:29 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:29 IST" name="setup" finished-at="2023-10-04T20:49:31 IST" duration-ms="1764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logInFunctionalityTest()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:31 IST" name="logInFunctionalityTest" finished-at="2023-10-04T20:49:32 IST" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInFunctionalityTest -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:32 IST" name="wrapUp" finished-at="2023-10-04T20:49:33 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:33 IST" name="setup" finished-at="2023-10-04T20:49:34 IST" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logOutFunctionalityTest()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:34 IST" name="logOutFunctionalityTest" finished-at="2023-10-04T20:49:35 IST" duration-ms="1418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutFunctionalityTest -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:36 IST" name="wrapUp" finished-at="2023-10-04T20:49:36 IST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:36 IST" name="setup" finished-at="2023-10-04T20:49:38 IST" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAboutPageisLoadingFunctionality()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:38 IST" name="validateAboutPageisLoadingFunctionality" finished-at="2023-10-04T20:49:43 IST" duration-ms="5512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutPageisLoadingFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:44 IST" name="wrapUp" finished-at="2023-10-04T20:49:45 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:45 IST" name="setup" finished-at="2023-10-04T20:49:46 IST" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateAllOptionsInMenuAreVisibleFunctionality()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:46 IST" name="validateAllOptionsInMenuAreVisibleFunctionality" finished-at="2023-10-04T20:49:48 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllOptionsInMenuAreVisibleFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:48 IST" name="wrapUp" finished-at="2023-10-04T20:49:49 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:49 IST" name="setup" finished-at="2023-10-04T20:49:50 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateMenuClosingButtonFunctionality()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:50 IST" name="validateMenuClosingButtonFunctionality" finished-at="2023-10-04T20:49:52 IST" duration-ms="1824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMenuClosingButtonFunctionality -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:49:52 IST" name="wrapUp" finished-at="2023-10-04T20:49:53 IST" duration-ms="810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="wrapAllUp(org.testng.ITestContext)[pri:0, instance:testscases.LoginFunctionalityTests@2177849e]" started-at="2023-10-04T20:50:37 IST" name="wrapAllUp" finished-at="2023-10-04T20:50:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@510bd87a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapAllUp -->
+      </class> <!-- testscases.LoginFunctionalityTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
