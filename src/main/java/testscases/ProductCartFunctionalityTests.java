@@ -208,7 +208,7 @@ public class ProductCartFunctionalityTests extends BaseTest {
 
 	}
 
-	@Test(testName = "TC 13 Validate CheckOut Overview Page Finish functionality")
+	@Test(testName = "TC 14 Validate CheckOut Overview Page Finish functionality")
 	public void ValidateCheckoutOverviewPageFinishFunctionality() throws Exception {
 		LoginFunctionalitytestsPage loginFunction = PageinstancesFactory.getInstance(LoginFunctionalitytestsPage.class);
 		loginFunction.enterURl(test.getProperty("url"));
@@ -242,7 +242,7 @@ public class ProductCartFunctionalityTests extends BaseTest {
 	}
 	
 
-	@Test(testName = "TC 14 Validate order functionality")
+	@Test(testName = "TC 15 Validate order functionality")
 	public void ValidateOrderFunctionality() throws Exception {
 		LoginFunctionalitytestsPage loginFunction = PageinstancesFactory.getInstance(LoginFunctionalitytestsPage.class);
 		loginFunction.enterURl(test.getProperty("url"));
